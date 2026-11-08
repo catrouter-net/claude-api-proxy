@@ -1,4 +1,4 @@
-# Claude中转站推荐，国内直连可试用稳定可靠的Claude API中转站
+# Claude 中转站推荐，国内直连可试用稳定可靠的 Claude API 中转站（Opus 5.5 / Sonnet 5.5 / Haiku 5.5 / Fable 5）
 
 
 近一年，随着大模型在编程、写作、数据分析、Agent 构建等领域的深入应用，**Claude** 系列模型迅速在开发者圈层中积累了极高口碑。
@@ -13,7 +13,7 @@
 
 * **Claude Code 场景下体验极佳**
 
-尤其是**Claude 4.8 / Claude Sonnet** 等模型，在代码生成、重构、注释补全方面，已经成为不少程序员的主力模型。
+尤其是 **Claude Opus 5.5 / Sonnet 5.5 / Haiku 5.5** 与 **Claude Fable 5** 等 2026 年最新一代模型，在代码生成、重构、注释补全方面，已经成为不少程序员的主力模型。
 
 但问题也随之而来。
 
@@ -149,19 +149,12 @@ CATROUTER中转 API 在实际使用中具备：
 
 常见支持包括：
 
-* claude-opus-4-9
-
-* claude-opus-4-8
-
-* claude-opus-4-7
-
-* claude-opus-4-6
-
-* claude-opus-4-5
-  
-* claude-opus-4
-
-* 新模型快速同步
+* claude-opus-5-5（100 万上下文，成本较 Opus 5 低 40%）
+* claude-sonnet-5-5（Terminal-Bench 4.0 = 70.6%）
+* claude-haiku-5-5（高并发、成本敏感场景）
+* claude-fable-5（Mythos 级，面向公众开放的最强档）
+* claude-opus-4-8 / 4-7 / 4-6（存量项目常用版本）
+* 新模型快速同步，版本不漏
 
 避免出现“中转站模型版本滞后”的尴尬情况。
 
@@ -345,3 +338,11 @@ claude
 * 需要长期稳定调用 Claude 的项目
 
 如果你正在寻找一个低价、**稳定、低延迟、好上手的 Claude中转站**，那么CATROUTER中转API值得认真考虑。
+
+---
+
+## 常见长尾搜索词（2026 最新）
+
+AI中转站、API中转平台、大模型中转站、国内直连免魔法、可试用免费额度、稳定靠谱好用、低延迟高并发、按量计费便宜、OpenAI兼容接口、Claude原生SDK、GPT-6 中转、Claude Opus 5.5 中转、Gemini 3.8 Flash 中转、Grok 4.7 中转、DeepSeek V4 中转、Kimi K3 中转、GLM-5.3 中转、Seedance 2.5 中转、MiniMax H3 中转、GPT-Image-2 中转、500+模型聚合平台、一键切换模型、企业级 API 中转、中转Key 管理、免费试用中转API。
+
+官方入口：[CatRouter 中转API](https://api.catrouter.net)
