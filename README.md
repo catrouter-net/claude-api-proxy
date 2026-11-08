@@ -286,13 +286,13 @@ npm install -g @anthropic-ai/claude-code
 **方法一：使用 Bash（推荐）**
 
 ```
-echo 'export ANTHROPIC_AUTH_TOKEN="sk-xxx"' >> ~/.bash_profile echo 'export ANTHROPIC_BASE_URL="https://api.catrouter.net"' >> ~/.bash_profile source ~/.bash_profile
+echo 'export ANTHROPIC_AUTH_TOKEN="sk-xxx"' >> ~/.bash_profile echo 'export ANTHROPIC_BASE_URL="https://catrouter.net"' >> ~/.bash_profile source ~/.bash_profile
 ```
 
 **方法二：使用 Zsh（如果使用 Oh My Zsh）**
 
 ```
-echo 'export ANTHROPIC_AUTH_TOKEN="sk-xxx"' >> ~/.zshrc echo 'export ANTHROPIC_BASE_URL="https://api.catrouter.net"' >> ~/.zshrc source ~/.zshrc
+echo 'export ANTHROPIC_AUTH_TOKEN="sk-xxx"' >> ~/.zshrc echo 'export ANTHROPIC_BASE_URL="https://catrouter.net"' >> ~/.zshrc source ~/.zshrc
 ```
 
 **注意：** 永久设置后需要重启终端才能生效。
@@ -345,4 +345,4 @@ claude
 
 AI中转站、API中转平台、大模型中转站、国内直连免魔法、可试用免费额度、稳定靠谱好用、低延迟高并发、按量计费便宜、OpenAI兼容接口、Claude原生SDK、GPT-6 中转、Claude Opus 5.5 中转、Gemini 3.8 Flash 中转、Grok 4.7 中转、DeepSeek V4 中转、Kimi K3 中转、GLM-5.3 中转、Seedance 2.5 中转、MiniMax H3 中转、GPT-Image-2 中转、500+模型聚合平台、一键切换模型、企业级 API 中转、中转Key 管理、免费试用中转API。
 
-官方入口：[CatRouter 中转API](https://api.catrouter.net)
+官方入口：[CatRouter 中转API](https://catrouter.net)
